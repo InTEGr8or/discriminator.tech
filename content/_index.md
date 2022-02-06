@@ -5,6 +5,12 @@ author: ValueCritic
 published: 2020-02-19
 ---
 
+## On invalid descrimination
+
+Discrimination is a process which occurs _inside_ reality, and is therefore subject to scrutiny. That is why this website exists in the `.tech` top-level domain.
+
+## Populism is an invalid form of discrimination
+
 Probably the most destructive idea in politics is the idea that political coordinates are discovered by polling a population of people who self-identify as acribing to that ideal or political agenda.
 
 It would be unlikely to find someone today who would publicly say "slavery used to be a bad thing, but now it is the new form of liberty"
