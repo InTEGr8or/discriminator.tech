@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://discriminator.tech/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Discriminator Tech'
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
 theme = "learn"
