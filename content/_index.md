@@ -28,6 +28,18 @@ Leftism is based on "right to rule", which is fake. Examples are "divine right o
 This is the only real change in politics in the history of mankind, and it happened most significantly on July 4th, 1776, with many minor examples throughout every event in history.
 
 ...
+## Rendering the Discriminator
+
+{{< discriminator 
+    main="Title of any item to be discriminated" 
+    middle="Entry point, to be discriminated, excluded middle" 
+    left="To be Left" right="What is right"  >}}
+
+{{< discriminator 
+    main="Additional item to be discriminated" 
+    middle="Water" 
+    left="Too much so as to cause drowning, flooding, mold, demineralization" 
+    right="Enough to prevent dehydration, to provide utility, or leasure enjoyment"  >}}
 
 ## Disorientation
 

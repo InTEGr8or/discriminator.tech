@@ -4,3 +4,12 @@ title = 'Discriminator Tech'
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
 theme = "learn"
+
+[params]
+  githubURL = "git@github.com:InTEGr8or/moral-rights.git"
+  editURL = "https://github.com/InTEGr8or/moral-rights/edit/master/content/"
+  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
+  # Hide Next and Previous page buttons normally displayed full height beside content
+  disableNextPrev = true
+  # Provide a list of custom css files to load relative from the `static/` folder in the site root.
+  custom_css = ["css/hogo-theme.css", "css/theme.css", "css/discriminator.css"]
