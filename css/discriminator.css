@@ -1,7 +1,7 @@
 .discriminator {
     width: 100%;
     border-top: 5px solid darkblue;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 .discriminated {
     width: 100%;
@@ -11,17 +11,20 @@
     grid-gap: 5px;
     grid-column: span 3;
 }
-.discriminated-left {
+.discriminator .title{
+    margin-bottom: 10px;
+}
+.discriminated .left {
     grid-column: span 1;
     grid-column-start: 1;
     grid-column-end: 1;
     border-top: 5px solid red ;
 }
-.discriminated-middle {
+.discriminated .middle {
     grid-column: span 1;
     border-top: 5px solid orange;
 }
-.discriminated-right {
+.discriminated .right {
     grid-column: span 1;
     border-top: 5px solid green;
 }
