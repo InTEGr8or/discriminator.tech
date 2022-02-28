@@ -6,8 +6,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 theme = "learn"
 
 [params]
-  githubURL = "git@github.com:InTEGr8or/moral-rights.git"
-  editURL = "https://github.com/InTEGr8or/moral-rights/edit/master/content/"
+  githubURL = "git@github.com:InTEGr8or/discriminator.git"
+  editURL = "https://github.com/InTEGr8or/discriminator/edit/master/content/"
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   # Hide Next and Previous page buttons normally displayed full height beside content
   disableNextPrev = true
