@@ -1,7 +1,10 @@
 .discriminator {
     width: 100%;
+    border-top: 5px solid darkblue;
+    margin-top: 20px;
 }
 .discriminated {
+    width: 100%;
     grid-row: 1;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
