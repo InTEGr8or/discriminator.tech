@@ -1,13 +1,15 @@
 <div class="discriminator">
-    {{ .Get "main"}}
+    <div class="title">
+        {{ .Get "main"}}
+    </div>
     <div class="discriminated">
-        <div class="discriminated-left">
+        <div class="left">
             {{ .Get "left" }}
         </div>
-        <div class="discriminated-middle">
+        <div class="middle">
             {{ .Get "middle" }}
         </div>
-        <div class="discriminated-right">
+        <div class="right">
             {{ .Get "right" }}
         </div>
     </div>
