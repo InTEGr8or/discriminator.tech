@@ -1,4 +1,4 @@
-module github.com/InTEGr8or/moral-rights
+module github.com/InTEGr8or/discriminator
 
 go 1.15
 

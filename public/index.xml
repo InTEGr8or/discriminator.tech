@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My First Post on My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content in My First Post on My New Hugo Site</description>
+    <title>My First Post on Discriminator Tech</title>
+    <link>https://discriminator.tech/</link>
+    <description>Recent content in My First Post on Discriminator Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://discriminator.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Discriminate?</title>
+      <link>https://discriminator.tech/why-discriminate/</link>
+      <pubDate>Sun, 27 Feb 2022 00:31:36 -0800</pubDate>
+      
+      <guid>https://discriminator.tech/why-discriminate/</guid>
+      <description>Everyone already discriminates All moral/ethical decisions involve discrimination. If you don&amp;rsquo;t agree with that, you are discriminating.</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
-      <link>http://example.org/post/</link>
+      <link>https://discriminator.tech/post/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/</guid>
+      <guid>https://discriminator.tech/post/</guid>
       <description>Introduction I don&amp;rsquo;t see where the origin of this HTML Index is. I was converting among a few static site generators and it may have gotten lost. It should also be in index.html in docs/.
 Discriminator  Discriminator The Discriminator
 Def: moral differentiation Everyone discriminates. If you&amp;rsquo;re shocked by this statement, and say &amp;ldquo;I would never discriminate!&amp;rdquo;, that is because you discriminate against discrimination.

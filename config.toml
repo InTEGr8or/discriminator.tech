@@ -1,4 +1,4 @@
-baseURL = 'http://discriminator.tech/'
+baseURL = 'https://discriminator.tech/'
 languageCode = 'en-us'
 title = 'Discriminator Tech'
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
@@ -6,6 +6,9 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 theme = "learn"
 
 [params]
+  title = "Discriminator Tech"
+  description = "A technical specification for a foundation of minimal requirements of government"
+  author = "Mark Stouffer"
   githubURL = "git@github.com:InTEGr8or/discriminator.git"
   editURL = "https://github.com/InTEGr8or/discriminator/edit/master/content/"
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"

@@ -8,4 +8,4 @@ draft: false
 
 This is the primary need for this discriminator. News disorients.
 
-{{< discriminator-main >}}
+{{< discriminator_main >}}

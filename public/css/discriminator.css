@@ -1,0 +1,30 @@
+.discriminator {
+    width: 100%;
+    border-top: 5px solid darkblue;
+    margin-top: 40px;
+}
+.discriminated {
+    width: 100%;
+    grid-row: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 5px;
+    grid-column: span 3;
+}
+.discriminator .title{
+    margin-bottom: 10px;
+}
+.discriminated .left {
+    grid-column: span 1;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    border-top: 5px solid red ;
+}
+.discriminated .middle {
+    grid-column: span 1;
+    border-top: 5px solid orange;
+}
+.discriminated .right {
+    grid-column: span 1;
+    border-top: 5px solid green;
+}
