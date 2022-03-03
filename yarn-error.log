@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js global dir
+
+PATH: 
+  C:\Program Files\PowerShell\7;C:\Program Files (x86)\GitExtensions\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\IncrediBuild;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Program Files\Amazon\SessionManagerPlugin\bin\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Go\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\OpenJDK\openjdk-8u275-b01\bin;C:\Program Files\PuTTY\;C:\ProgramData\chocolatey\bin;C:\ProgramData\chocolatey\lib\gsudo\bin\;C:\ProgramData\DockerDesktop\version-bin;C:\Windows;C:\Windows\System32;C:\Windows\System32\OpenSSH\;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PowerShell\7\;C:\Program Files (x86)\dotnet\;C:\Program Files\nu\bin\;C:\Program Files\GitHub CLI\;C:\Users\xgenx\.local\share\solana\install\active_release\bin;C:\Users\xgenx\scoop\shims;C:\Users\xgenx\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\xgenx\AppData\Local\Programs\Python\Python310\;C:\Users\xgenx\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\xgenx\AppData\Local\Pandoc\;C:\Users\xgenx\AppData\Local\nvs\;C:\Users\xgenx\AppData\Local\Microsoft\WindowsApps;C:\Users\xgenx\.dotnet\tools;C:\Users\xgenx\.cargo\bin;C:\Go\bin;C:\Users\xgenx\apps\gsudo;C:\Users\xgenx\go\bin;C:\Users\xgenx\.dotnet\tools;C:\Users\xgenx\AppData\Local\Microsoft\WindowsApps;C:\tools\neovim\Neovim\bin;C:\Users\xgenx\AppData\Roaming\npm;C:\Program Files\heroku\bin;C:\Users\xgenx\AppData\Local\Keybase\;C:\Users\xgenx\scoop\apps\neovim\current\bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  17.2.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: D:\T3\Projects\self\discriminator.tech\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:310:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

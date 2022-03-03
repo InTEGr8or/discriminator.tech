@@ -8,4 +8,8 @@ draft: false
 
 This is the primary need for this discriminator. News disorients.
 
-{{< discriminator_main >}}
+{{<d main="Zuby comments on the central role of news in Democrat governance, and how it is easily corrupted" >}}
+    {{<dc column="left">}}To be left{{</dc>}}
+    {{<dc column="middle">}}{{<twitter 1499419624672305154>}}{{</dc>}}
+    {{<dc column="right" >}}What is right{{</dc>}}
+{{</d>}}
