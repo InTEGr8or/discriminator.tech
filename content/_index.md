@@ -14,6 +14,17 @@ All moral/ethical decisions involve discrimination. If you don't agree with that
 
 Discrimination is a process which occurs _inside_ reality, and is therefore subject to scrutiny. That is why this website exists in the `.tech` top-level domain.
 
+Discrimination is not inscrutable. It is investigatable and analyzabble, but you must start somwehere.
+
+"It is better to be wrong than to be vague" --Freeman Dyson
+
+Only definite statements can be properly affirmed or refuted. Only specific codes can be troubleshooted.
+
+The problems we have in society today is that policies and principles at the highest level and over the longest range are _intentionally_ vague.
+
+The vagueness is seen as necessary _wiggle room_ for people implementing policies, but it makes it impossible to debug or invalidate the policies themselves. Their vagueness provide infinite cover for the policies and makes them unfalsifiable and irrefutable.
+
+This website is an attempt to overcome that oversight.
  
 
 ## Rendering the discriminator
