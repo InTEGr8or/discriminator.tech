@@ -8,13 +8,13 @@ draft: false
 
 Probably the most destructive idea in politics is the idea that political coordinates are discovered by polling a population of people who self-identify as acribing to that ideal or political agenda.
 
-It would be unlikely to find someone today who would publicly say "slavery used to be a bad thing, but now it is the new form of liberty"
+It would be unlikely to find someone today who would publicly say "slavery used to be a bad thing, but now it is the new form of liberty". Slavery and servitude have fallen out of the popular political spectrum, but they still exist in a location on the real political coordinate system. It is possible for a person to hold them as an ideal, and that fact should be observable by any political investigator.
 
 Definitions of words like "authoritarianism" or "totalitarianism" or "tyranny" or "genocide" should not mutate into their opposites.
 
 Neither shold the poles or directions of political ideology.
 
-
+![](2022-04-28-12-40-47.png)
 
 Rightism means individual rights and politics based on recognition of individual rights, self-ownership, property, speech freedom, freedom from slavery.
 
