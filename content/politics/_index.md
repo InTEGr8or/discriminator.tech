@@ -43,3 +43,9 @@ But how can we choose on our ballots if the choices are indistingishable? Of "bo
 
 
 ## Reorienting Discrimination
+
+The proper way to reorient political discrimination is to base it on the one factor that all political dissussion has used all throughout all history and will also do in the future: Rights
+
+Every political discussion or investigation has employed the concept of rights, but of course they have not done it properly.
+
+A proper concept of rights must begin from the primary principle of rights, that an individual is the proper owner of his own life. This is the source of property, ownership, and rights, all wrapped up in one seminal and irrefutable concept: self-ownership of life.
