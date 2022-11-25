@@ -10,15 +10,24 @@ published: 2020-02-19
 Everyone already discriminates
 
 All moral/ethical decisions involve discrimination. If you don't agree with that, you are discriminating.
+
+NOTE: Descrimination does not mean you have to discriminate against a group of people. Group judgement, or collective judgment, is the primary corruption of proper judgment of any kind. Moral judgment means judgment _of actions_, which is necessary for humans who chose actions of any kind and on any scale or duration, however small or large.
+
 ## On invalid descrimination
 
 Discrimination is a process which occurs _inside_ reality, and is therefore subject to scrutiny. That is why this website exists in the `.tech` top-level domain.
 
 Discrimination is not inscrutable. It is investigatable and analyzabble, but you must start somwehere.
 
+## Debugability
+
 "It is better to be wrong than to be vague" --Freeman Dyson
 
+This single statement could be the most difinitive statement about what technolgy is: specific artifacts which are extremely precise, and therefor can be testable as either wrong or right, pass or fail, valid or invalid.
+
 Only definite statements can be properly affirmed or refuted. Only specific codes can be troubleshooted.
+
+## The Vaugness Agenda
 
 The problems we have in society today is that policies and principles at the highest level and over the longest range are _intentionally_ vague.
 
